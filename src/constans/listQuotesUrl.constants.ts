@@ -1,0 +1,1 @@
+export const listQuotesUrl = 'https://currency-exchange.p.rapidapi.com/listquotes';
